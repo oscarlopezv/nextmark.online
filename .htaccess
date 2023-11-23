@@ -1,0 +1,9 @@
+RewriteEngine On
+RewriteRule ^imgs/(.*)?$ admin/images/$1
+RewriteRule ^pdfs/(.*)?$ admin/images/$1
+RewriteRule ^procesar/([a-zA-Z0-9-_]*)/?$ php/proccess.php?id=$1
+RewriteRule ^qr/([a-zA-Z0-9-_]*)/?$ qr.php?contrato=$1
+
+# php -- BEGIN cPanel-generated handler, do not edit
+# This domain inherits the “PHP” package.
+# php -- END cPanel-generated handler, do not edit

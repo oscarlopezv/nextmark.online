@@ -1,0 +1,5 @@
+[21-Nov-2022 08:47:50 America/Boise] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home3/innovdl8/public_html/salud/admin/homepage.php on line 141
+[21-Nov-2022 08:47:50 America/Boise] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home3/innovdl8/public_html/salud/admin/homepage.php on line 186
+[21-Nov-2022 08:47:50 America/Boise] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home3/innovdl8/public_html/salud/admin/homepage.php on line 199
+[21-Nov-2022 08:47:50 America/Boise] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home3/innovdl8/public_html/salud/admin/homepage.php on line 217
+[21-Nov-2022 08:47:50 America/Boise] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home3/innovdl8/public_html/salud/admin/homepage.php on line 235

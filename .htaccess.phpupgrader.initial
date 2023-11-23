@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteRule ^imgs/(.*)?$ admin/images/$1
+RewriteRule ^pdfs/(.*)?$ admin/images/$1
